@@ -1,7 +1,7 @@
 
 #Couple of different ways to do this in this file.
 
-
+ 
 
 #list number of times nucleotides occur and at what percentage in genome
 
